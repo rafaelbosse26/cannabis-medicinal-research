@@ -1,9 +1,8 @@
-# Quality & EU-GMP
+# Regulatory Studies
 
-This folder is dedicated to quality standards and EU-GMP-related topics.
+This folder contains regulatory notes and analysis related to medicinal cannabis.
 
 Topics include:
-- EU-GMP principles
-- Quality documentation
-- COA analysis
-- Risk-based assessment
+- EU regulatory framework
+- Brazilian regulations (ANVISA)
+- Importation and quality requirements
